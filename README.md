@@ -1,4 +1,4 @@
-# top100movieAnalysis
+# Top 100 movies Analysis
 Top 100 Movies from IMDB Analysis: Does the IMDB rating reliable?
 In recent years, box office movies have gotten more attention from the public. Mcclintock (2021) predicts that the revenues of the global box office movies in 2021 will be 80% ahead of 2020 but still 49% behind 2019. Therefore, it is essential to analyse all-time favourite movies to give viewers insight into what is measured as a good movie. The top 100 movies from Internet Movie Database (IMDB) have been scraped into a single CSV file using BeautifulSoup as the Python library to make this analysis. Below is provided the analysis result for the top movies based on the IMDB users' preference.
 1. All-time favourite movies based on IMDB: The top 10 movies
