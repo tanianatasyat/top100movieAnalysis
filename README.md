@@ -4,6 +4,20 @@ I want you to do a data analysis on the data. What do you think is interesting a
 For example, you might consider whether the director has an impact on movie box office revenue, or whether some directors only focus on making certain type of moves. Another thing you might consider is whether there is a relationship between the box office revenue and the user’s ratings on the movie.
 The assignment code that runs on its own (Web crawling + Data analysis) should be handed in using a Jupter Notebook file. (Project Credit: Wang, 2021)
 
+**Analysis Summary**
+- 70% of the top 10 movies are released before 2000. It showed that Generation-Z does not like to rate a movie in a website.
+<img width="765" alt="Screen Shot 2022-03-18 at 12 03 35" src="https://user-images.githubusercontent.com/78801155/158940795-44db1a85-254d-4e3c-997d-a573fc10ba0c.png">
+<img width="303" alt="Screen Shot 2022-03-18 at 12 04 03" src="https://user-images.githubusercontent.com/78801155/158940835-efdf6eab-fd98-4f46-9239-4c21c67bdf4b.png">
+
+- Rating does not guarantee the movies revenue. People rather care about the content of the movies itself, if they like it then they will buy the ticket to watch the movie.
+<img width="604" alt="Screen Shot 2022-03-18 at 12 04 39" src="https://user-images.githubusercontent.com/78801155/158940890-d043e956-cc80-451e-8a08-f8131fcbeb79.png">
+
+- Duration does not affect the movies rating.
+<img width="626" alt="Screen Shot 2022-03-18 at 12 09 11" src="https://user-images.githubusercontent.com/78801155/158941279-bd79b3c0-1286-40f1-8c5a-665031ddb293.png">
+
+-  
+
+**REPORT**
 # Top 100 Movies from IMDB Analysis: Does the IMDB rating reliable?
 In recent years, box office movies have gotten more attention from the public. Mcclintock (2021) predicts that the revenues of the global box office movies in 2021 will be 80% ahead of 2020 but still 49% behind 2019. Therefore, it is essential to analyse all-time favourite movies to give viewers insight into what is measured as a good movie. The top 100 movies from Internet Movie Database (IMDB) have been scraped into a single CSV file using BeautifulSoup as the Python library to make this analysis. Below is provided the analysis result for the top movies based on the IMDB users' preference.
 
